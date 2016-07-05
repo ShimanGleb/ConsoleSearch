@@ -1,0 +1,6 @@
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\bin\Debug\ConsoleSearcher.exe.config
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\bin\Debug\ConsoleSearcher.exe
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\bin\Debug\ConsoleSearcher.pdb
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\obj\Debug\ConsoleSearcher.csprojResolveAssemblyReference.cache
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\obj\Debug\ConsoleSearcher.exe
+C:\PracticeProject\ConsoleSearcher\ConsoleSearcher\obj\Debug\ConsoleSearcher.pdb
